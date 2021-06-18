@@ -11,4 +11,4 @@ pages_list:
 plugins:
   - jekyll-feed
 github: [metadata]
-theme: jekyll_theme_minimal 
+theme: jekyll-theme-minimal 

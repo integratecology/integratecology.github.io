@@ -1,8 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 ---
 
 I'm an academic generalist whose research generally centers on how weather and climate influence animal ecology. At the moment, I focus mostly on issues related to climate change, but I also have projects ongoing related to physiology, macroecology, invasion ecology, movement ecology, habitat selection, and applied conservation work. My dissertation work in the Goheen lab at the University of Wyoming centered on the energetic drivers of behavior and body size in bats, and my postdoctoral research at the Center for Advanced Systems Understanding centers on macroecological patterns of animal movement.
