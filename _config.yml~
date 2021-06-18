@@ -1,0 +1,13 @@
+title: Jesse Alston
+description: Postdoctoral Researcher @ CASUS
+show_downloads: true
+google_analytics: 276247755
+permalink: /:categories/:year-:month-:day-:title.html
+pages_list:
+  Home: '/index'
+  CV: '/cv'
+  Publications: '/publications'
+  Tutorials: '/tutorials'
+plugins:
+  - jekyll-feed
+github: [metadata] 

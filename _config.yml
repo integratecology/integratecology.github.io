@@ -10,4 +10,5 @@ pages_list:
   Tutorials: '/tutorials'
 plugins:
   - jekyll-feed
-github: [metadata] 
+github: [metadata]
+theme: jekyll_theme_minimal 
